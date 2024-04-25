@@ -1,0 +1,38 @@
+{{
+    "exchanges": {
+        "Bitbuy": {
+            "url": "https://bitbuy.ca/assets/api/docs",
+            "apiKey": "your_bitbuy_api_key_here"
+        },
+        "Coinbase": {
+            "url": "https://docs.cloud.coinbase.com/exchange/docs",
+            "apiKey": "cccdce53-20b0-4d82-a54e-4aed8966ebef"
+        },
+        "Coinsquare": {
+            "url": "https://coinsquare.com",
+            "apiKey": "your_coinsquare_api_key_here"
+        },
+        "Netcoins": {
+            "url": "https://netcoins.app",
+            "apiKey": "your_netcoins_api_key_here"
+        },
+        "Shakepay": {
+            "url": "https://shakepay.com",
+            "apiKey": "your_shakepay_api_key_here"
+        },
+        "VirgoCX": {
+            "url": "https://www.virgocx.ca",
+            "apiKey": "d9e199e727e44d98838e2895ff2eed0b"
+        },
+        "Wealthsimple": {
+            "url": "https://www.wealthsimple.com",
+            "apiKey": "your_wealthsimple_api_key_here"
+        }
+    },
+    "flashLoan": {
+        "contractAddress": "0x...FlashLoanContractAddress"
+    },
+    "volatileCoins": [
+        "BTC", "ETH", "XRP", "ADA", "SOL", "DOT", "LINK", "BNB", "UNI", "DOGE", "SHIB"
+    ]
+}
