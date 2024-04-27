@@ -1,6 +1,6 @@
-//Project Overview//
+//Non-Profit Project Overview//
 
-The UBI project aims to develop an innovative application that leverages cryptocurrency
+The Non-Profit project aims to develop an innovative application that leverages cryptocurrency
 arbitrage and predictive investing to generate a universal guaranteed income for users. This 
 income is not funded by governmental or state sources but is sustained through the strategic 
 utilization of cryptocurrency market opportunities.
@@ -79,7 +79,7 @@ refine operations.
 
 //Conclusion//
 
-The UBI project is poised to revolutionize how individuals engage with cryptocurrency
+The Non-Profit project is poised to revolutionize how individuals engage with cryptocurrency
 by providing a stable, user-friendly platform for income generation through advanced trading 
 algorithms and secure investment strategies. This app not only aims to foster financial growth 
 but also to increase the accessibility of cryptocurrency technologies to a broader audience.
